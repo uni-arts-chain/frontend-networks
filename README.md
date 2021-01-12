@@ -1,4 +1,4 @@
-# @polkadot/networks
+# @uniarts/networks
 
 A list of all available Substrate networks and their applicable prefixes.
 
